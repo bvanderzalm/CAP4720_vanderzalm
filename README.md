@@ -1,8 +1,9 @@
 # CAP4720_vanderzalm
-Repository for CAP4720 - Computer Graphics (Fall 2021)
+
+CAP4720 - Computer Graphics (Fall 2021)
+* Project Link: https://observablehq.com/@bvanderzalm/cap4720-fzero-finalproject
 
 ## About the course
-
 This course will cover the fundamentals of interactive 3D Computer Graphics and 3D graphics programming. Students will learn graphics programming using `WebGL2` (OpenGL ES3.0), and `Javascript`. We will use `TWGL`, a simple library that is designed to make WebGL programming compact. This course will cover Vector Algebra and Transformations that are at the foundation of 3D graphics.
 
 
